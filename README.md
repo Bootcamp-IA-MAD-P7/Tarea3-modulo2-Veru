@@ -22,7 +22,7 @@ Bibliografía
 
 [home]: https://www.ibm.com/mx-es/think/topics/hyperparameter-tuning
 
-[¿Qué es el ajuste de hiperparámetros?][home]
+[Optimización de Hiperparámetros con Grid Search y Random Search en Python][home]
 
 [home]: https://tutoriales.com/inteligencia-artificial/machine-learning/optimizacion-de-hiperparametros-con-grid-search-y-random-search-en-python
 
